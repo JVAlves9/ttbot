@@ -1,0 +1,4 @@
+*.env
+ids.txt
+idsTl.txt
+__pycache__
